@@ -14,7 +14,7 @@ const Banner = () => {
       </div>
       {/* Description */}
       <div className="w-3/4 flex flex-col items-center md:items-start gap-2">
-        <h1 className="text-5xl font-bold text-white">Hi, I'm <span className="text-[#FF014F]">Mzwandile Nkohla</span></h1>
+        <h1 className="text-5xl font-bold text-white">Hi, Im <span className="text-[#FF014F]">Mzwandile Nkohla</span></h1>
         <h3 className="text-xl md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wide">
         <p>A Web Developer In The Making</p>
         <p>A Game Developer</p>
