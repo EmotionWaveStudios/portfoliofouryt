@@ -23,10 +23,6 @@ const Contact = () => {
           title="Linkedin"
           link="https://www.linkedin.com/in/mzwandile-nkohla-948363214/"
         />
-        <SocialLink
-          title="Facebook"
-          link="https://www.facebook.com/mzwandile.nkohla.56"
-        />
       </div>
     </div>
   );
