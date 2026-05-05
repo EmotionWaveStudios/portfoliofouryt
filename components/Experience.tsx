@@ -15,7 +15,7 @@ const Experience = () => {
         />
         <ExperienceCard
           title="Velisa Africa"
-          subTitle="MERN-Stack Development Student 2023 - present"
+          subTitle="MERN-Stack Development Internship 2023 - 2023"
           icon={<SiReact />}
         />
         <ExperienceCard
