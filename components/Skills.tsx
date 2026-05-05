@@ -7,7 +7,6 @@ const Skills = () => {
     <div className="wrapper">
       <Title text="Skills" icon={<GiSkills />} />
       <div className="flex gap-4 flex-wrap">
-        <SkillsInput title="Tailwindcss" link="https://tailwindcss.com/" />
         <SkillsInput
           title="HTML5"
           link="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
@@ -16,6 +15,7 @@ const Skills = () => {
           title="CSS3"
           link="https://developer.mozilla.org/en-US/docs/Web/CSS"
         />
+        <SkillsInput title="Tailwindcss" link="https://tailwindcss.com/" />
         <SkillsInput
           title="JavaScript"
           link="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
